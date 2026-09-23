@@ -1,5 +1,5 @@
 import { useState, useEffect } from 'react';
-import { motion, AnimatePresence } from 'motion/react';
+import { motion } from 'motion/react';
 import { Trash2, Plus, Minus, ArrowRight, CheckCircle2, ChefHat, Truck, Clock } from 'lucide-react';
 import { Button } from './ui/button';
 import { useCart } from './CartContext';

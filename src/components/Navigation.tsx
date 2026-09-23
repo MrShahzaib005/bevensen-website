@@ -1,5 +1,5 @@
 import { motion } from 'motion/react';
-import { Menu, X, Crown } from 'lucide-react';
+import { Menu, Crown } from 'lucide-react';
 import { Button } from './ui/button';
 import { Sheet, SheetContent, SheetTrigger } from './ui/sheet';
 

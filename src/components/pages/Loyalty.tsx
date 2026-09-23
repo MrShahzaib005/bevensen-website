@@ -1,6 +1,6 @@
 import { useState, useEffect } from 'react';
 import { motion } from 'motion/react';
-import { Crown, Star, Gift, Zap, Check, Sparkles, TrendingUp, Users, LogIn } from 'lucide-react';
+import { Crown, Star, Gift, Zap, Check, Sparkles, TrendingUp, Users } from 'lucide-react';
 import { Button } from '../ui/button';
 import { Card } from '../ui/card';
 import { Input } from '../ui/input';

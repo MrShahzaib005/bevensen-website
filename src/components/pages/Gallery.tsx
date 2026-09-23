@@ -1,6 +1,6 @@
 import { useState } from 'react';
-import { motion, AnimatePresence } from 'motion/react';
-import { X, ZoomIn } from 'lucide-react';
+import { motion } from 'motion/react';
+import { ZoomIn } from 'lucide-react';
 import { ImageWithFallback } from '../figma/ImageWithFallback';
 import { Dialog, DialogContent } from '../ui/dialoge';
 
